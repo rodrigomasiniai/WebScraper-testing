@@ -13,7 +13,7 @@ Install the libraries provided in requirements.txt by using following command <b
 #### Running the script
 run the script by using following command <br />
 *cd webscraper;*
-*python -m webscraper https://www.wikipedia.org*
+*python -m webscraper [https://www.sbdcnet.org/small-business-information-center/business-plan/]*
 
 **if you wish to start the crawling afresh from the supplied address, please use following command** <br />
 *cd webscraper;*
